@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/17835122/103312480-ddc73f00-4a25-11eb-9aed-3e892ccd8128.gif"/>
@@ -7,17 +7,57 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-<!--
-**eugenestarchenko/eugenestarchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+I like working with a trendy variety of technologies, solving real business and human problems by learning new tech tools and processes, helping startups, founders, and development teams accelerate cloud adoption or successfully operate in multi-cloud/hybrid cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Web: https://eugene.starchenko.com/
+- 💻 Github: https://github.com/eugenestarchenko
+- 🐤 Twitter: https://twitter.com/eugenstarchenko
+- 📫 Contact me: tweet, DMs 
+
+🤹 Skillset: 
+AWS |
+Azure |
+GCP |
+Terraform |
+Kubernetes |
+AWS Cloudformation |
+Docker |
+Helm/Helmfile |
+Ansible |
+Jenkins |
+ArgoCD/Flux |
+and counting...
+
+
+⏳ Languages:
+Ukrainian |
+Russian |
+English |
+Bash / sh |
+Python |
+Golang
+
+
+🔥 SaaS Experience:
+PagerDuty |
+Opsgenie |
+Sumologic |
+DataDog |
+CloudHealth |
+LogicMonitor |
+Elastic |
+Okta |
+Auth0 |
+Pingdom |
+Cloudflare |
+Sentry |
+GitHub Actions |
+Azure Pipelines |
+DroneIO |
+TravisCI |
+JFrog |
+LaunchDarkly |
+Blameless |
+Your buzzword *)
