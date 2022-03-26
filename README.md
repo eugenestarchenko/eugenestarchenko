@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/17835122/103312480-ddc73f00-4a25-11eb-9aed-3e892ccd8128.gif"/>
 </p>
+ -->
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <!--
 **eugenestarchenko/eugenestarchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
