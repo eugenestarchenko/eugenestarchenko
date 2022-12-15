@@ -35,6 +35,7 @@ and counting...
 Ukrainian |
 Russian |
 English |
+Portuguese |
 Bash / sh |
 Python |
 Golang
