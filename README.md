@@ -1,64 +1,30 @@
-
-
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/17835122/103312480-ddc73f00-4a25-11eb-9aed-3e892ccd8128.gif"/>
-</p>
- -->
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 ### Hi there 👋
 
-I like working with a trendy variety of technologies, solving real business and human problems by learning new tech tools and processes, helping startups, founders, and development teams accelerate cloud adoption or successfully operate in multi-cloud/hybrid cloud infrastructure.
+Passionate about leveraging new technologies to solve business challenges, continuously learning, and helping startups and teams adopt cloud solutions to thrive in hybrid, multi-cloud environments.
 
 - 🌐 Web: https://eugene.starchenko.com/
 - 💻 Github: https://github.com/eugenestarchenko
-- 🐤 Twitter: https://twitter.com/eugenstarchenko
-- 📫 Contact me: tweet, DMs 
+- 📫 Contact me: DMs 
 
-🤹 Skillset: 
-AWS |
-Azure |
-GCP |
-Terraform |
-Kubernetes |
-AWS Cloudformation |
-Docker |
-Helm/Helmfile |
-Ansible |
-Jenkins |
-ArgoCD/Flux |
-and counting...
+🤹 Core Competencies: 
+AWS / Azure / GCP /
+AWS Cloudformation / AWS CDK / Serverless /
+Hashicorp (Terraform/Packer/Vault/Consul) / Terragrunt / OpenTofu /
+Kubernetes / Docker / Helm / Helmfile /
+GitHub Actions / Gitlab / Jenkins/ Drone / Harness /
+Ansible / ArgoCD / Flux /
+Istio / Cilium /
+Grafana (Mimir/Loki/Tempo) /
+NATSio / Kafka / Redpanda /
+NodeOps and counting...
 
+🛠️ Programming Proficiencies:
+Python |
+Golang |
+Bash |
 
 ⏳ Languages:
 Ukrainian |
-Russian |
 English |
+Russian |
 Portuguese |
-Bash / sh |
-Python |
-Golang
-
-
-🔥 SaaS Experience:
-PagerDuty |
-Opsgenie |
-Sumologic |
-DataDog |
-CloudHealth |
-LogicMonitor |
-Elastic |
-Okta |
-Auth0 |
-Pingdom |
-Cloudflare |
-Sentry |
-GitHub Actions |
-Azure Pipelines |
-DroneIO |
-TravisCI |
-JFrog |
-LaunchDarkly |
-Blameless |
-Your buzzword *)
